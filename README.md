@@ -4,7 +4,7 @@
 
 ![ComponentsCafe Banner](https://img.shields.io/badge/Components-Cafe-FF6B6B?style=for-the-badge&logo=react&logoColor=white)
 [![Live Demo](https://img.shields.io/badge/Demo-Live-success?style=for-the-badge)](https://component-cafe.vercel.app)
-[![Next.js](https://img.shields.io/badge/Next.js-15.x-black?style=for-the-badge&logo=next.js)](https://nextjs.org)
+[![Next.js](https://img.shields.io/badge/Next.js-16.x-black?style=for-the-badge&logo=next.js)](https://nextjs.org)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
 
@@ -41,7 +41,7 @@ ComponentsCafe leverages the best tools in the ecosystem to deliver exceptional 
 
 | Technology | Purpose | Why We Use It |
 |------------|---------|---------------|
-| **Next.js 15** | Framework | Server-side rendering, routing, and optimal performance |
+| **Next.js 16** | Framework | Server-side rendering, routing, and optimal performance |
 | **React 19** | UI Library | Component-based architecture with latest features |
 | **TypeScript** | Language | Type safety and enhanced developer experience |
 | **Tailwind CSS** | Styling | Utility-first approach for rapid UI development |
